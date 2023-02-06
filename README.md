@@ -1,1 +1,1 @@
-# cours-github-exercice
+# cours-jenkins
